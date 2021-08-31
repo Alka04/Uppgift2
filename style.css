@@ -22,3 +22,7 @@ p.pp{
 .hemsida{
     text-decoration: transparent;
 }
+.grid-container { 
+    display: grid;
+    grid-template-rows: 69px 69px 69px 69px 69px;
+}
